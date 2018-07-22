@@ -1,0 +1,6 @@
+<ruleset>
+  <rule ref="PEAR">
+    <exclude name="PEAR.Commenting.FileComment" />
+    <exclude name="PEAR.Commenting.ClassComment" />
+  </rule>
+</ruleset>

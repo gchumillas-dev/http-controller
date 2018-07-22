@@ -1,0 +1,20 @@
+{
+    "name": "gchumillas/http-controller",
+    "description": "A class to process HTTP requests.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gonzalo Chumillas",
+            "email": "gchumillas@email.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "gchumillas\\": "src/"
+        }
+    }
+}
